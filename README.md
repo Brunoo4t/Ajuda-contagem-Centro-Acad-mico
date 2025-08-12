@@ -56,3 +56,5 @@ Desenvolvimento de Bibliotecas: Criar bibliotecas modulares e reutilizáveis, se
 Otimização de Processos: Identificar gargalos em processos manuais e propor soluções de software que aumentam a eficiência e produtividade.
 
 Este projeto é um exemplo prático de como o conhecimento em estruturas de dados e programação C pode ser aplicado para resolver problemas cotidianos, gerando valor e economizando tempo.
+# Ajuda-contagem-Centro-Acad-mico
+Sistema simples de contagem semanal do Centro Acadêmico
