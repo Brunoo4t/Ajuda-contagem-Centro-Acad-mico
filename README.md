@@ -45,7 +45,7 @@ int main() {
     return 0;
 }
 ## Perfil Profissional
-Este projeto foi dedicada a disciplina Liguagem de programação e posteriormente aprimorada com os conhecimentos adiquiridos na disciplina Algoritmos e Estrutura de Dados:
+Este projeto foi dedicada a disciplina Liguagem de programação e posteriormente aprimorada com os conhecimentos adiquiridos na disciplina Algoritmos e Estrutura de Dados.
 
 Modelagem de Dados: Projetar e implementar estruturas de dados eficientes, como a pilha, para resolver problemas do mundo real.
 
@@ -57,5 +57,5 @@ Otimização de Processos: Identificar gargalos em processos manuais e propor so
 
 Este projeto é um exemplo prático de como o conhecimento em estruturas de dados e programação C pode ser aplicado para resolver problemas cotidianos, gerando valor e economizando tempo.
 
-# Ajuda-contagem-Centro-Acad-mico
+# Ajuda contagem Centro Academico
 Sistema simples de contagem semanal do Centro Acadêmico
